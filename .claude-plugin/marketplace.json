@@ -1,0 +1,14 @@
+{
+  "name": "orca-parallel-teams",
+  "description": "Orca 병렬 팀 운영 스킬 플러그인",
+  "owner": {
+    "name": "wowjangpro"
+  },
+  "plugins": [
+    {
+      "name": "orca-parallel-teams",
+      "source": "./",
+      "description": "Orca 에서 병렬 작업을 창구 → 트랙 워커 → 워커 안 agent team 의 3계층으로 운영하는 절차 스킬"
+    }
+  ]
+}

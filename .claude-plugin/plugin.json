@@ -1,0 +1,10 @@
+{
+  "name": "orca-parallel-teams",
+  "version": "0.1.0",
+  "description": "Orca 에서 병렬 작업을 창구 → 트랙 워커 → 워커 안 agent team 의 3계층으로 운영하는 절차 스킬",
+  "author": {
+    "name": "wowjangpro"
+  },
+  "repository": "https://github.com/wowjangpro/orca-parallel-teams",
+  "keywords": ["parallel", "agent-team", "orca", "orchestration"]
+}
